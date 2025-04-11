@@ -1,0 +1,315 @@
+order_id;product_id;product_name;category;price;price_clean
+c9da15aa-be24-4871-92a3-dfa7746fff69;PWPX0982761090982;Kellogg's Frosties;Supermarket;$12.53;12,53
+ccacc183-09f8-4fd5-af35-009d18656326;PWPX0982761090983;Uncured Bacon;Supermarket;$4.67;4,67
+f4e1d30b-c3d1-413f-99b8-93c0b46d68bf;PWPX0982761090984;Whole Milk;Supermarket;$9.95;9,95
+993d31f4-9358-41f0-a371-0021e55cef5d;PWPX0982761090985;Organic Bananas;Supermarket;$3.94;3,94
+3e0a8f1b-3cd6-4d64-90e3-6b38dc368925;PWPX0982761090986;Sourdough Bread;Supermarket;$19.77;19,77
+d0b8162c-2dfc-4038-93e2-fbe240dba870;PWPX0982761090987;Cheddar Cheese;Supermarket;$12.47;12,47
+97fd47af-79b1-4177-b0be-2d26a2f8c288;PWPX0982761090988;Greek Yogurt;Supermarket;$18.01;18,01
+7e8fb589-7a61-43c1-aacb-c30e53dc1acc;PWPX0982761090989;Tomato Soup;Supermarket;$7.82;7,82
+cf227256-5702-40f0-9e6e-a8aa231bf842;PWPX0982761090990;Frozen Peas;Supermarket;$10.10;10,1
+11b841e4-c021-41eb-9f81-dd90c15d6557;PWPX0982761090991;Honey Nut Cheerios;Supermarket;$17.54;17,54
+adde430d-480f-40b4-b63c-2ce4b406020a;PWPX0982761090992;Canned Tuna;Supermarket;$18.60;18,6
+9fe3cd7c-7240-4e24-93e8-2196a8076812;PWPX0982761090993;Ground Coffee;Supermarket;$13.28;13,28
+bae65235-7a70-4d95-9622-7f5d5aadb826;PWPX0982761090994;Peanut Butter;Supermarket;$19.32;19,32
+ff5d63a3-2893-4d2e-82c3-b8071c9353c6;PWPX0982761090995;Cinnamon Toast Crunch;Supermarket;$8.11;8,11
+6e5431c9-2beb-4110-bede-c7fce32a6ca8;PWPX0982761090996;Oat Milk;Supermarket;$19.58;19,58
+c48d53f9-4fa8-4d6b-a906-01a4b5ef5d7b;PWPX0982761090997;Chicken Breast;Supermarket;$5.93;5,93
+de3f8888-9975-4e00-9f0d-89689bc34981;PWPX0982761090998;Broccoli;Supermarket;$4.38;4,38
+b57f2f55-4ef2-4ddb-8dfb-5755f10e8d97;PWPX0982761090999;Brown Rice;Supermarket;$17.11;17,11
+44dd6e53-7cf3-46cf-bd72-f011fefcd55a;PWPX0982761091000;Bagged Spinach;Supermarket;$17.28;17,28
+f387a8d8-aade-4058-babf-d112ffffed5a;PWPX0982761091001;Frozen Pizza;Supermarket;$15.09;15,09
+153ed46b-c74b-413e-aa5c-b6432b1e4e99;PWPX0982761091002;Granola Bars;Supermarket;$8.23;8,23
+b6e1908f-3df1-41a5-8f67-6b1413d4c829;PWPX0982761091003;Sliced Turkey;Supermarket;$13.22;13,22
+e36b60f0-92ea-4a5a-a7fc-919f8953fb08;PWPX0982761091004;Instant Noodles;Supermarket;$5.80;5,8
+bfc314f8-66f8-4abc-b884-f3950a9466c2;PWPX0982761091005;Ketchup;Supermarket;$17.79;17,79
+734046cc-cf94-4330-8a83-dbc0618a5aaa;PWPX0982761091006;Soy Sauce;Supermarket;$9.37;9,37
+1debe0ab-316c-425d-9ff4-2a1b32ab9142;PWPX0982761091007;Apples;Supermarket;$18.45;18,45
+147a685a-936e-4270-a553-20de64fb5623;PWPX0982761091008;Oranges;Supermarket;$4.51;4,51
+29160b96-91da-47a5-8e31-8d7563e1281a;PWPX0982761091009;Beef Jerky;Supermarket;$3.78;3,78
+54a427fe-60f7-4df1-9bfc-fe9a4223adc2;PWPX0982761091010;Italian Sausage;Supermarket;$12.71;12,71
+7d2c4cb6-ffe3-4c73-80f1-7dd318eeae99;PWPX0982761091011;Avocado;Supermarket;$7.30;7,3
+30ffb11c-87cc-43bb-9b8f-e810f25a0d87;PWPX0982761091012;Hummus;Supermarket;$7.92;7,92
+8c8c0bac-315a-47a8-9b79-eb70e3d7393d;PWPX0982761091013;Rice Cakes;Supermarket;$6.56;6,56
+18f62737-41ee-41d7-9a91-e7f19bf71a80;PWPX0982761091014;Whole Wheat Bread;Supermarket;$3.85;3,85
+cb2125fc-0338-4050-959d-487e438ec1b3;PWPX0982761091015;Bell Peppers;Supermarket;$4.43;4,43
+77ba01fe-0b61-48d6-97b0-72d4fd3fd6a1;PWPX0982761091016;Romaine Lettuce;Supermarket;$14.22;14,22
+ce57b2cc-bfca-4b43-a6f2-e0c38ec1ebf9;PWPX0982761091017;Salmon Filets;Supermarket;$17.21;17,21
+12b51989-0385-4ff1-b157-9f64f3882488;PWPX0982761091018;Butter;Supermarket;$3.85;3,85
+427f1a7b-5a62-49aa-9393-4ccb864b52c4;PWPX0982761091019;Maple Syrup;Supermarket;$8.68;8,68
+f0111959-d152-4157-9a7f-d76e334f28d5;PWPX0982761091020;Frozen Waffles;Supermarket;$11.08;11,08
+dfa4cf25-dbec-458b-af5e-560cecb293d9;PWPX0982761091021;Pasta;Supermarket;$16.20;16,2
+f373631c-c365-4351-84bc-7a9d9cf62b11;PWPX0982761091022;Shredded Cheese;Supermarket;$16.28;16,28
+0db14afa-c71f-4e08-9024-de6b910664aa;PWPX0982761091023;Whipped Cream;Supermarket;$2.65;2,65
+84905c58-44ad-4231-a144-a8feb3ddaefc;PWPX0982761091024;Chocolate Chip Cookies;Supermarket;$10.78;10,78
+ea74b357-7be8-4f30-b603-7d49ee72ca8e;PWPX0982761091025;Trail Mix;Supermarket;$6.22;6,22
+4d9e6ee2-1496-4cf3-aa4b-b9b6750dd6e5;PWPX0982761091026;Potato Chips;Supermarket;$9.30;9,3
+bc0cf594-0e92-4054-9841-37823585dea3;PWPX0982761091027;Coconut Water;Supermarket;$2.72;2,72
+06e65bbb-2e44-434a-b97d-fe36bfa8b2b8;PWPX0982761091028;Spaghetti;Supermarket;$18.35;18,35
+f66be854-182e-4e12-ad19-c873575ec678;PWPX0982761091029;Garlic;Supermarket;$12.53;12,53
+3dbdb412-b6b5-416b-8c61-8a6caa599cf2;PWPX0982761091030;Ice Cream;Supermarket;$7.29;7,29
+aedc5289-3227-47c4-ba99-ff3ee0ed8b7f;PWPX0982761091031;Corn Tortillas;Supermarket;$9.97;9,97
+c4f4d58b-de97-46e9-a967-6dc133dd4640;PWPX0982761091032;Olive Oil;Supermarket;$6.09;6,09
+37b16c98-368a-4894-a7f2-db9a6037b1be;PWPX0982761091033;Pancake Mix;Supermarket;$17.78;17,78
+55354972-5673-41a0-9dd5-1c4437ea5adc;PWPX0982761091034;Eggs;Supermarket;$10.57;10,57
+462423f0-1d1e-48f0-9541-91f76e09e466;PWPX0982761091035;Ranch Dressing;Supermarket;$19.99;19,99
+fa98a372-4b56-4dfb-968a-cef304741ec1;PWPX0982761091036;Frozen Vegetables;Supermarket;$8.54;8,54
+60474ab4-5e08-406d-b94c-ed9e1c2e51bf;PWPX0982761091037;Almond Butter;Supermarket;$12.01;12,01
+ee6d9efe-d911-458c-b72a-b375d64a9431;PWPX0982761091038;Beef Patties;Supermarket;$6.94;6,94
+e5c3606e-7836-4467-b95d-0d5ef0b0ae1a;PWPX0982761091039;Chicken Wings;Supermarket;$19.38;19,38
+5c10620b-5fb9-45e1-a62f-0ac09e9ac3a9;PWPX0982761091040;Hot Dog Buns;Supermarket;$16.30;16,3
+e7a5c192-df00-47d1-8e22-1b2a641ac580;PWPX0982761091041;Mustard;Supermarket;$7.95;7,95
+f8f03c51-5379-4e25-b5fd-f1fb566414a4;PWPX0982761091042;Shredded Carrots;Supermarket;$13.83;13,83
+8cea8d24-1669-4633-be43-547bf693dd59;PWPX0982761091043;Mozzarella Sticks;Supermarket;$16.00;16
+d71e0f2f-0b41-4445-83f9-24ee457597e3;PWPX0982761091044;Protein Bars;Supermarket;$15.49;15,49
+a9b13157-c6e9-449c-bb6c-468d40ec9d99;PWPX0982761091045;Whole Wheat Tortillas;Supermarket;$16.69;16,69
+06761060-fa85-4d0c-a7c9-dde466286873;PWPX0982761091046;Orange Juice;Supermarket;$6.10;6,1
+fcc4e426-f62e-4a7c-9290-1d1f290623d4;PWPX0982761091047;Pickles;Supermarket;$9.87;9,87
+0418d2bc-eadd-4545-bd43-397404823137;PWPX0982761091048;Flour;Supermarket;$3.48;3,48
+44bf89a0-b207-4e87-9b51-7174968f6f2f;PWPX0982761091049;Baking Soda;Supermarket;$19.55;19,55
+9b5a3e9b-39ff-4ae3-80ae-e84f7d23b866;PWPX0982761091050;Rice Pudding;Supermarket;$10.16;10,16
+483b284b-d169-4bc5-a3f9-16dd981689ac;PWPX0982761091051;Frozen Berries;Supermarket;$15.89;15,89
+a980af70-007b-44a7-a1f0-57ce97456501;PWPX0982761091052;Baby Spinach;Supermarket;$16.67;16,67
+2f2fc89d-79a6-4219-847f-14154a3aaa8b;PWPX0982761091053;Cottage Cheese;Supermarket;$18.25;18,25
+5eb25b76-6fb2-4921-aa3e-a621b8618625;PWPX0982761091054;Turkey Burgers;Supermarket;$8.48;8,48
+2338dac7-06df-4404-9bff-1cd564ecb673;PWPX0982761091055;Salsa;Supermarket;$11.83;11,83
+39d500b1-6b1e-4f81-8860-9741d1f7c36c;PWPX0982761091056;Salted Butter;Supermarket;$9.89;9,89
+54d55c28-e628-44f4-b378-d7ade9b4b422;PWPX0982761091057;String Cheese;Supermarket;$11.13;11,13
+5ce667d1-d740-4492-b3c1-6210c1ece56c;PWPX0982761091058;Frozen Chicken Nuggets;Supermarket;$4.81;4,81
+ac4a4a64-93a4-4aa0-94f9-172bca0d2b18;PWPX0982761091059;Organic Baby Carrots;Supermarket;$5.92;5,92
+6f64b475-6b18-48ea-af90-7d1929a6ff14;PWPX0982761091060;Ramen;Supermarket;$10.80;10,8
+fcb86717-84d2-46dc-84d8-cfa0364b7cec;PWPX0982761091061;Cheese Sticks;Supermarket;$16.42;16,42
+136c3b46-cb80-4019-93ac-64469895094c;PWPX0982761091062;Bread Crumbs;Supermarket;$19.80;19,8
+94644ed5-27f2-47af-9e18-67411131d7f5;PWPX0982761091063;Sweet Potatoes;Supermarket;$11.02;11,02
+64c624c5-ea8d-4a14-88aa-447d1b89ca8b;PWPX0982761091064;Red Onions;Supermarket;$18.81;18,81
+1a39a30c-2c3f-4950-8640-39c54365532e;PWPX0982761091065;Avocado Oil;Supermarket;$8.75;8,75
+6b71583e-e0ba-48fb-961b-ccb5b7bdf0c7;PWPX0982761091066;Frozen French Fries;Supermarket;$11.69;11,69
+044df3fc-a8be-473b-aea6-b9e85480c222;PWPX0982761091067;Garlic Bread;Supermarket;$11.53;11,53
+1d6a70f6-e8c1-43c3-b34c-9babb9751771;PWPX0982761091068;Frozen Broccoli;Supermarket;$11.26;11,26
+85b9e6f7-ae44-4bd6-ae2c-f5b71426862f;PWPX0982761091069;Ground Beef;Supermarket;$13.27;13,27
+6ca1fc1b-1b69-4c85-a4ee-9ed13639b45f;PWPX0982761091070;Tortilla Chips;Supermarket;$12.63;12,63
+968ec0c5-5058-446b-b015-c0b03e082c10;PWPX0982761091071;Oyster Sauce;Supermarket;$10.47;10,47
+e9fffa70-c986-4700-a469-479ae781280f;PWPX0982761091072;Cereal Bars;Supermarket;$6.13;6,13
+3fefed0c-25af-4e86-9606-8e959b52363b;PWPX0982761091073;Apple Sauce;Supermarket;$11.26;11,26
+0b34c23b-a607-4251-a6ef-90428d60c061;PWPX0982761091074;Frozen Corn;Supermarket;$7.81;7,81
+430bbcb2-ca26-4fb5-bbee-b56aab24aef9;PWPX0982761091075;Potato Wedges;Supermarket;$14.41;14,41
+594de190-f19f-43fa-a6dc-1fb07f23cb21;PWPX0982761091076;Chicken Thighs;Supermarket;$15.69;15,69
+049d2582-34ac-49a3-92d4-bb153128da6f;PWPX0982761091077;Frozen Mixed Berries;Supermarket;$3.10;3,1
+f556bb5a-75e9-43b5-b4d1-137171d7b533;PWPX0982761091078;Frozen Shrimp;Supermarket;$4.71;4,71
+f698fe6c-02bf-4116-9212-b682ceea1ab4;PWPX0982761091079;Canned Chickpeas;Supermarket;$16.82;16,82
+37f78c25-2f64-4ebf-aa59-a3cc0a069515;PWPX0982761091080;Spices Assortment;Supermarket;$13.74;13,74
+5c6935c3-bb0b-4712-bb02-8043d0676fd4;PWPX0982761091081;Vegetable Stock;Supermarket;$2.16;2,16
+97deec76-6edd-4207-94ee-c34947c796f7;PWPX0982761091082;Baking Powder;Supermarket;$17.95;17,95
+e2739557-eda3-4608-bed8-a9e1f1e3cb09;PWPX0982761091083;Chia Seeds;Supermarket;$8.21;8,21
+d16a44b3-5066-485b-a3ea-dff2b913cb75;PWPX0982761091084;Pancetta;Supermarket;$10.44;10,44
+64805311-bc57-46ca-a06a-fc181b8694d9;PWPX0982761091085;Red Grapes;Supermarket;$14.67;14,67
+b9d22873-649c-486c-ba06-2abdf570887a;PWPX0982761091086;Frozen Mozzarella;Supermarket;$17.09;17,09
+80351896-d805-4d80-81e8-003b481e48e6;PWPX0982761091087;Pumpkin Puree;Supermarket;$9.29;9,29
+cd87ce5b-ef99-4a34-a132-da350a03ae18;PWPX0982761091088;Frozen Edamame;Supermarket;$13.13;13,13
+316b3dce-4d64-4c1e-a5db-1d024e53d31b;PWPX0982761091089;Pita Bread;Supermarket;$10.08;10,08
+a9b5b4e9-e03a-45f5-b47f-a1aea960eff1;PWPX0982761091090;Macaroni;Supermarket;$7.75;7,75
+9c9c29fb-decd-45a8-84e3-966f0a441185;PWPX0982761091091;Diced Tomatoes;Supermarket;$9.48;9,48
+40ab98cb-a160-4c7a-af90-166e79d9b2ed;PWPX0982761091092;Basil Pesto;Supermarket;$15.28;15,28
+1f23b89e-700b-4b21-a1f6-7793a1f21f50;PWPX0982761091093;Chocolate Milk;Supermarket;$6.48;6,48
+f3856475-f2ff-4f9d-9b46-609a3f849b20;PWPX0982761091094;Frozen Ravioli;Supermarket;$10.96;10,96
+af004d3c-61a2-42f7-aa38-ddd9ed0c1baf;PWPX0982761091095;Croutons;Supermarket;$13.31;13,31
+48ce08ad-a209-44d8-829d-6e706df3fa39;PWPX0982761091096;Cooking Spray;Supermarket;$12.44;12,44
+4e65b86c-c8da-459b-9147-4ab010b84ab6;PWPX0982761091097;Beats Studio Pro Headphone;Electronics;$690.88;690,88
+8076fc37-2b67-48bf-a78e-c8b2a4321311;PWPX0982761091098;Logitech Mouse;Electronics;$225.68;225,68
+f22d56ca-02c6-4651-9e7c-95636344e768;PWPX0982761091099;Samsung Galaxy S21;Supermarket;$783.07;783,07
+1764e41d-2c06-4667-a462-25a21e54a32c;PWPX0982761091100;Apple MacBook Pro;Supermarket;$424.82;424,82
+eb54ac38-66f2-4fef-bf22-ec2ff5d62575;PWPX0982761091101;Bose QuietComfort Earbuds;Supermarket;$585.52;585,52
+65252354-3ce6-41ff-9821-343f9faf0c0e;PWPX0982761091102;Sony PlayStation 5;Supermarket;$880.38;880,38
+5f783ff5-4473-4507-996f-2691eaa9b798;PWPX0982761091103;Amazon Echo Dot;Supermarket;$477.29;477,29
+80e18395-7d63-44cb-896a-c23f80cd7b6b;PWPX0982761091104;Canon EOS Rebel Camera;Electronics;$808.21;808,21
+812448a5-8313-437a-85cf-67c975908035;PWPX0982761091105;Microsoft Surface Pro;Supermarket;$497.46;497,46
+3b108e2d-656b-44e8-8462-eed5b6a54f5f;PWPX0982761091106;NVIDIA GeForce RTX 3060;Supermarket;$647.73;647,73
+f03cb1c2-b8d1-40be-8651-ff202a5f280b;PWPX0982761091107;Apple iPad Air;Supermarket;$185.97;185,97
+e24fb61f-e4bc-4610-8f21-7be273b5294a;PWPX0982761091108;Dell XPS 13;Supermarket;$196.72;196,72
+396c9815-3338-4f32-9473-2a3f61d0d255;PWPX0982761091109;GoPro Hero 9;Supermarket;$908.87;908,87
+ae66f8ed-c68b-4cab-a531-04cc76cee3c2;PWPX0982761091110;Kindle Paperwhite;Supermarket;$738.81;738,81
+1f10e2a7-81e0-47f2-8851-b30537c4b2d2;PWPX0982761091111;HP Envy Printer;Electronics;$482.13;482,13
+2b0d29e8-cf03-487c-9b67-410013e77ae4;PWPX0982761091112;Apple Watch Series 6;Supermarket;$579.00;579
+e4965d8a-c2ff-46c7-acff-7c31eeb1a87c;PWPX0982761091113;Google Chromecast;Supermarket;$750.72;750,72
+81800a21-c46a-475c-a3ac-2e775f01ebd5;PWPX0982761091114;Sony WH-1000XM4 Headphones;Electronics;$246.70;246,7
+d3051c08-6bb5-402b-9af1-0344600071fa;PWPX0982761091115;Garmin Forerunner;Supermarket;$840.38;840,38
+da0d0af1-1284-4113-8fd8-f3e5ce7e81c6;PWPX0982761091116;DJI Mini Drone;Supermarket;$270.42;270,42
+3bba3b61-16ac-4873-8c6f-3ebbb87ab410;PWPX0982761091117;Samsung QLED TV;Electronics;$710.27;710,27
+74559d01-a6b1-4d4e-aee8-b23ddbf4d0f6;PWPX0982761091118;Fitbit Charge 5;Supermarket;$310.88;310,88
+ae60e456-0c12-41d4-96a9-10c1d4321fe6;PWPX0982761091119;Dyson V11 Vacuum;Supermarket;$300.54;300,54
+ee720eb0-689a-4573-8969-5be2d7118319;PWPX0982761091120;Apple iPhone 13 Pro;Electronics;$180.20;180,2
+bcc7fcb7-7717-45b2-8b31-f18867f973c8;PWPX0982761091121;Asus ROG Gaming Laptop;Electronics;$334.68;334,68
+7a1e79d5-d477-4ea6-b771-f46de742cd9a;PWPX0982761091122;Roku Ultra Streaming Device;Supermarket;$632.85;632,85
+c4159336-4920-4df5-a35a-0735fbd83231;PWPX0982761091123;JBL Flip Speaker;Electronics;$307.07;307,07
+b8d6b597-259c-47e1-b72c-83ecd5aaa85c;PWPX0982761091124;Nest Thermostat;Supermarket;$528.96;528,96
+276a0da8-a2d9-49ef-b9a0-dcbdf741eb7b;PWPX0982761091125;Nintendo Switch;Supermarket;$725.50;725,5
+90c3a04c-319a-4c47-9346-d1c7cdb1ad19;PWPX0982761091126;Panasonic Lumix Camera;Electronics;$187.40;187,4
+7dbb7cad-2c90-4a97-bbd2-b227c74e6b02;PWPX0982761091127;Cheerios;Supermarket;$5.46;5,46
+773288f1-4642-42e2-9491-88ad852240ab;PWPX0982761091128;Diet Coke;Supermarket;$4.76;4,76
+87a7e93a-d134-425c-94b9-8ce633731c5c;PWPX0982761091129;Ben & Jerry's Caramel Ice Cream;Supermarket;$6.38;6,38
+3f5ecedb-db2a-451a-86ca-e8ada1c7efa1;PWPX0982761091130;Frosted Flakes;Supermarket;$18.16;18,16
+b494ecb8-8c7c-4f39-b948-adaf29987a25;PWPX0982761091131;Eggo Waffles;Supermarket;$3.86;3,86
+fd2184b1-fc5f-4eef-b980-fde818418a9d;PWPX0982761091132;Lay's Classic Chips;Supermarket;$10.40;10,4
+9c2e2495-d5b9-4dcd-9347-86e3c014b32f;PWPX0982761091133;Gatorade;Supermarket;$18.01;18,01
+e8611a97-ca36-4986-91f9-7d10224f2943;PWPX0982761091134;Red Bull;Supermarket;$17.03;17,03
+dd17c2a3-be18-4173-9652-bd2bfbb01c61;PWPX0982761091135;Oreo Cookies;Supermarket;$14.95;14,95
+63aa84a7-cd73-42bc-b112-bedc7d1a08d9;PWPX0982761091136;Campbell's Tomato Soup;Supermarket;$14.03;14,03
+ed573a04-13a9-4c89-9d8d-bc5f7d04115f;PWPX0982761091137;Heinz Ketchup;Supermarket;$19.86;19,86
+b1d284ab-95b6-403d-9dc6-2742d4e7a624;PWPX0982761091138;Jif Peanut Butter;Supermarket;$8.74;8,74
+cdeaf02b-042f-4f04-8de5-e918b754f2b6;PWPX0982761091139;Skippy Peanut Butter;Supermarket;$13.25;13,25
+eb96e4e9-9935-4387-8123-179dce564e5a;PWPX0982761091140;Cap'n Crunch Cereal;Supermarket;$7.19;7,19
+7947033f-f752-4e04-b9a8-8561f8116b1d;PWPX0982761091141;Pop-Tarts;Supermarket;$6.00;6
+a01f7ee9-47f8-47ab-94d0-ae3c36883000;PWPX0982761091142;Pepsi;Supermarket;$10.82;10,82
+40b9688d-37fc-41d8-80c4-58692c0c6cec;PWPX0982761091143;Mountain Dew;Supermarket;$17.84;17,84
+f7367d0b-6a47-4d6d-8592-e972da31e07d;PWPX0982761091144;Fanta;Supermarket;$7.11;7,11
+23b64103-c089-4250-bde0-2d006b268866;PWPX0982761091145;Sprite;Supermarket;$19.92;19,92
+241aaeda-b00c-4c3f-b5b3-c35f8e2f952c;PWPX0982761091146;Dr Pepper;Supermarket;$16.54;16,54
+a4eb2aad-b09b-4139-8147-ca74f6831934;PWPX0982761091147;Ritz Crackers;Supermarket;$6.57;6,57
+72b84c65-8683-4200-af2c-ae70a5a81df8;PWPX0982761091148;Wheaties Cereal;Supermarket;$19.03;19,03
+ba57391d-2c3f-4f71-963b-960c9cc836d2;PWPX0982761091149;Special K Cereal;Supermarket;$6.42;6,42
+cd546f41-fc39-492f-94a1-0e62d8f90123;PWPX0982761091150;Nature Valley Granola Bars;Supermarket;$11.91;11,91
+97cace49-c652-4af3-8726-e361dae0b24b;PWPX0982761091151;Cheez-It Crackers;Supermarket;$11.71;11,71
+4299e1fe-e01c-43e2-8875-ad045b2c3286;PWPX0982761091152;Doritos;Supermarket;$4.78;4,78
+c6d1f23b-940c-4f22-8b96-7f61500b09b3;PWPX0982761091153;Cheetos;Supermarket;$12.28;12,28
+8c31b35d-7a5d-4c44-88d1-a3021775cd06;PWPX0982761091154;Tostitos;Supermarket;$9.27;9,27
+223bcbbb-4573-441f-91e2-bfd2b86a84f3;PWPX0982761091155;Rold Gold Pretzels;Supermarket;$6.50;6,5
+57d2f3ad-4e77-48a6-8572-ed2c6c8d994b;PWPX0982761091156;Frito-Lay Variety Pack;Supermarket;$4.11;4,11
+fe3a5c2f-2387-44ae-9518-13d897aa93a2;PWPX0982761091157;Pringles;Supermarket;$17.91;17,91
+6d969d70-3425-43f6-884d-a4f7063bcdf4;PWPX0982761091158;Goldfish Crackers;Supermarket;$11.46;11,46
+f5b23c4f-884e-4747-8c25-25f46b9ece03;PWPX0982761091159;Nutella;Supermarket;$9.46;9,46
+379671cf-9fa1-4152-9c5f-fd668241c1d4;PWPX0982761091160;Smucker's Jelly;Supermarket;$19.92;19,92
+565e120a-6e0f-4ce9-8593-fdecb2f24061;PWPX0982761091161;Philadelphia Cream Cheese;Supermarket;$10.37;10,37
+3b945aaa-01ec-4d27-a3ad-01006ee46f63;PWPX0982761091162;Land O'Lakes Butter;Supermarket;$11.91;11,91
+fb6b2d8f-3515-4b20-b9e3-279c13ec7c04;PWPX0982761091163;Pillsbury Crescent Rolls;Supermarket;$12.37;12,37
+91eec37d-d487-4a13-88ea-9e7b53ac63ef;PWPX0982761091164;Hot Pockets;Supermarket;$2.64;2,64
+48294b57-92d5-4728-9cdb-0b937d1dfe90;PWPX0982761091165;Stouffer's Lasagna;Supermarket;$8.02;8,02
+12f43b35-c453-423c-ba15-e0e2a8dec3ae;PWPX0982761091166;Marie Callender's Pot Pies;Supermarket;$19.15;19,15
+3d195d5f-73a3-4f5f-a61b-81d357280c84;PWPX0982761091167;Lean Cuisine;Supermarket;$7.31;7,31
+795d5ae4-0f04-4b00-9132-9de715193597;PWPX0982761091168;Kraft Mac & Cheese;Supermarket;$9.16;9,16
+26af4dbf-c962-4b94-9f44-bb11e2316f13;PWPX0982761091169;Velveeta;Supermarket;$12.59;12,59
+cc6eec8a-761d-4df8-bc39-401f159b3ab8;PWPX0982761091170;Hellmann's Mayonnaise;Supermarket;$10.87;10,87
+9ab65e63-d3aa-4f2c-833f-5311b2a83a9c;PWPX0982761091171;Duke's Mayonnaise;Supermarket;$19.22;19,22
+154672fd-5fd8-4bdd-8002-60c585d6592d;PWPX0982761091172;Hidden Valley Ranch;Supermarket;$8.70;8,7
+ecd3d670-edc0-4e60-b470-7d0f9c7ebbef;PWPX0982761091173;Frank's RedHot Sauce;Supermarket;$15.57;15,57
+387240f7-67d9-4303-8703-009c4f0769e5;PWPX0982761091174;Tabasco Sauce;Supermarket;$6.11;6,11
+de388465-5423-4e15-a820-f85913ee4c78;PWPX0982761091175;A1 Steak Sauce;Supermarket;$19.80;19,8
+7ef44c6e-aa5c-48ff-925b-b995e2b79850;PWPX0982761091176;French's Mustard;Supermarket;$19.87;19,87
+20ebdc8f-39c4-4c81-89ab-85a1d7e61a23;PWPX0982761091177;Grey Poupon Mustard;Supermarket;$14.92;14,92
+3138b8c3-5d67-4d81-9e3f-460c9f138a0f;PWPX0982761091178;Hunt's Tomato Sauce;Supermarket;$9.79;9,79
+aa58d122-843c-4820-9a66-f2410786196e;PWPX0982761091179;Progresso Soup;Supermarket;$19.79;19,79
+55273538-700e-4545-8282-a9f37ffec112;PWPX0982761091180;Ragu Pasta Sauce;Supermarket;$3.31;3,31
+351c97fc-878f-4ff9-a1c2-b266241513a0;PWPX0982761091181;Barilla Pasta;Supermarket;$4.56;4,56
+dd18796e-d54a-4ecb-b5af-7b127e194fcf;PWPX0982761091182;Colavita Olive Oil;Supermarket;$18.24;18,24
+05117084-8d26-4ff5-a264-d6df6a163f6c;PWPX0982761091183;Bertolli Olive Oil;Supermarket;$15.84;15,84
+c14870c2-932f-4a84-a49b-d6802c8248a0;PWPX0982761091184;Hershey's Syrup;Supermarket;$7.30;7,3
+a0c3810f-7dcb-4e45-9369-75aa711d1835;PWPX0982761091185;Nestle Toll House Chocolate Chips;Supermarket;$5.72;5,72
+8abeade5-ee93-4606-a606-48ac245d195a;PWPX0982761091186;Betty Crocker Cake Mix;Supermarket;$8.39;8,39
+b5d36582-c736-4ec7-a1e4-9d61c6b34287;PWPX0982761091187;Duncan Hines Cake Mix;Supermarket;$18.88;18,88
+6ff2a575-6d37-49c2-8a5d-877ccdddfc8e;PWPX0982761091188;Jello;Supermarket;$5.29;5,29
+78d2e5e7-69ee-4a69-9a54-9eb6b917c632;PWPX0982761091189;Cool Whip;Supermarket;$11.29;11,29
+721fb195-9414-4cad-90c6-bce0d141c144;PWPX0982761091190;Pillsbury Frosting;Supermarket;$19.18;19,18
+6cb266eb-4fbd-436b-891c-12228c01721e;PWPX0982761091191;Reese's Peanut Butter Cups;Supermarket;$8.43;8,43
+2ca7e567-d76d-4cb7-8177-c432b8a54d64;PWPX0982761091192;M&M's;Supermarket;$3.04;3,04
+d62f04b5-91e3-40d1-b19c-ecbc9f74bfe6;PWPX0982761091193;Snickers;Supermarket;$18.19;18,19
+18334d24-4b8a-486b-b214-de889bb3c8da;PWPX0982761091194;Twix;Supermarket;$4.68;4,68
+15cba1bc-6a92-4c97-b37c-0cad544e059e;PWPX0982761091195;Milky Way;Supermarket;$13.25;13,25
+237c46b5-f269-4f01-b611-e73620aca65b;PWPX0982761091196;Kit Kat;Supermarket;$10.98;10,98
+1561cb7c-da51-4ada-8332-daa605df5a40;PWPX0982761091197;Butterfinger;Supermarket;$5.00;5
+987bb44f-f847-4d85-90d5-07f65b961b38;PWPX0982761091198;Hershey's Milk Chocolate;Supermarket;$16.62;16,62
+b6439400-89b2-4da2-882c-85dd33a2162e;PWPX0982761091199;Toblerone;Supermarket;$7.37;7,37
+3233082b-4f45-4a5d-9c9c-9012431ffba5;PWPX0982761091200;Ferrero Rocher;Supermarket;$12.90;12,9
+e61241a3-2476-4342-bfc8-66accdeaead0;PWPX0982761091201;Lindt Lindor Truffles;Supermarket;$14.89;14,89
+471fd81e-d724-4673-a6a9-ab9a990a6a9c;PWPX0982761091202;Planters Mixed Nuts;Supermarket;$12.66;12,66
+171705bf-b1eb-4a51-bf5f-a2a05b09170b;PWPX0982761091203;Blue Diamond Almonds;Supermarket;$5.74;5,74
+dcd8577b-ced3-4524-bc38-82d6951d5884;PWPX0982761091204;Wonderful Pistachios;Supermarket;$5.32;5,32
+1e65846b-f898-41ec-a5d9-a6a7210103c0;PWPX0982761091205;Sun-Maid Raisins;Supermarket;$4.31;4,31
+3f2de6a7-8236-43b7-ac04-025c0fef8396;PWPX0982761091206;Quaker Oats;Supermarket;$10.10;10,1
+952c5dde-736e-441d-b7a6-d0e41b3f79df;PWPX0982761091207;Kellogg's Special K;Supermarket;$9.77;9,77
+91443b58-18e3-4a40-8b01-01fd401ff18e;PWPX0982761091208;Rice Krispies;Supermarket;$13.00;13
+1d217662-6540-40dc-8c8a-62b57573d2db;PWPX0982761091209;Corn Flakes;Supermarket;$12.35;12,35
+8de74937-46b9-4d45-b310-99dd4273522e;PWPX0982761091210;Honey Bunches of Oats;Supermarket;$19.69;19,69
+f1e99156-dba1-4c9c-bd19-0f28d1db4862;PWPX0982761091211;Post Grape-Nuts;Supermarket;$18.70;18,7
+77aba384-b30c-4202-997d-0cfacd98bba9;PWPX0982761091212;Fiber One Bars;Supermarket;$4.51;4,51
+afe850a9-d84c-4072-a5c9-86d55338c359;PWPX0982761091213;Kind Bars;Supermarket;$9.89;9,89
+f12ca010-a073-4bb3-a7c4-db3b9f1101ea;PWPX0982761091214;Larabar;Supermarket;$10.35;10,35
+ef3d2a72-a77b-4040-89a1-e23df2564912;PWPX0982761091215;Nature's Path Organic Granola;Supermarket;$8.95;8,95
+dc9e3089-fee6-4344-8956-8603698323ac;PWPX0982761091216;Chobani Greek Yogurt;Supermarket;$14.64;14,64
+8a41bf18-ce72-4ddc-b88e-4ac3f1f6fda9;PWPX0982761091217;Fage Greek Yogurt;Supermarket;$8.13;8,13
+fbf04ee7-2999-4232-aac5-a0ac5110a880;PWPX0982761091218;Yoplait Yogurt;Supermarket;$18.76;18,76
+95079dec-1a6c-45c9-8391-a3dffc6f6f25;PWPX0982761091219;Activia Yogurt;Supermarket;$6.20;6,2
+0babc614-d731-454f-89d9-a98364974c0f;PWPX0982761091220;Silk Almond Milk;Supermarket;$13.85;13,85
+8e0f3412-8419-4272-8751-7d9a5273508c;PWPX0982761091221;Blue Diamond Almond Milk;Supermarket;$19.07;19,07
+30999354-4e03-4f6c-aa56-ff0e3587061f;PWPX0982761091222;Horizon Organic Milk;Supermarket;$12.45;12,45
+e6757789-4b9d-406b-933c-b2439fea4012;PWPX0982761091223;Simply Orange Juice;Supermarket;$15.00;15
+4b3cf8d2-27d0-4905-b183-49ea91f7cd51;PWPX0982761091224;Tropicana Orange Juice;Supermarket;$5.02;5,02
+c6a7b725-31a0-4deb-9448-667e4ef69580;PWPX0982761091225;Minute Maid Lemonade;Supermarket;$10.50;10,5
+9b77291a-9e3b-41a9-8584-49406d65c5a7;PWPX0982761091226;Ocean Spray Cranberry Juice;Supermarket;$9.94;9,94
+c5a4fe0b-0de9-44c9-9c85-34581683f9bf;PWPX0982761091227;Lipton Iced Tea;Supermarket;$2.07;2,07
+dafab720-f61d-4321-b9c8-b3203e813874;PWPX0982761091228;Arizona Iced Tea;Supermarket;$5.95;5,95
+80f8b0a5-5969-4d4e-ab45-a244957c6c86;PWPX0982761091229;Starbucks Bottled Frappuccino;Supermarket;$19.30;19,3
+5077274c-3979-4c9e-8386-bf658a39f5e0;PWPX0982761091230;Coca-Cola;Supermarket;$6.77;6,77
+3b0567a5-9ffe-4247-92c4-c2439be7fb14;PWPX0982761091231;Sprite Zero;Supermarket;$10.87;10,87
+1b54e5a3-460e-427e-bece-22be510eae67;PWPX0982761091232;7 Up;Supermarket;$10.27;10,27
+84832b36-9226-4f5b-9a64-edfa2bb6e1e2;PWPX0982761091233;Canada Dry Ginger Ale;Supermarket;$10.10;10,1
+6d10a469-1500-4876-850c-3694174248f9;PWPX0982761091234;Schweppes Tonic Water;Supermarket;$11.01;11,01
+dea9d0a8-8979-4d10-b2b4-c3809d0ce8d5;PWPX0982761091235;Perrier Sparkling Water;Supermarket;$4.20;4,2
+6c6ce637-b3b7-4a42-b409-bdedc587ae3a;PWPX0982761091236;San Pellegrino;Supermarket;$13.38;13,38
+e6ebead2-6504-49d1-a196-22305239e296;PWPX0982761091237;La Croix Sparkling Water;Supermarket;$11.34;11,34
+9086d501-cce9-4b5d-a338-a8e813392545;PWPX0982761091238;Polar Seltzer;Supermarket;$7.62;7,62
+8b3c776e-dae7-47f7-93cf-f2ef66d8e706;PWPX0982761091239;Smartwater;Supermarket;$18.28;18,28
+532bf2e4-9e49-4247-997a-8bfcda9fe38e;PWPX0982761091240;Dasani Water;Supermarket;$15.47;15,47
+af7514e1-1771-47b0-b079-bee8c5df465d;PWPX0982761091241;Poland Spring Water;Supermarket;$19.30;19,3
+8c137bc1-a866-4c95-a019-7b4c739c250f;PWPX0982761091242;Aquafina Water;Supermarket;$4.08;4,08
+eff5c15d-a08a-40dd-8b40-f4a4df7f1726;PWPX0982761091243;Ice Mountain Water;Supermarket;$15.98;15,98
+76ed596c-6d00-4da9-ad3a-0125b1dda6e1;PWPX0982761091244;Arrowhead Water;Supermarket;$18.27;18,27
+7e1b4601-88e6-4231-a810-9e76a6859de4;PWPX0982761091245;Evian Water;Supermarket;$10.79;10,79
+dbe2a943-123c-415b-b83b-50079b052573;PWPX0982761091246;Kirkland Signature Bottled Water;Supermarket;$2.21;2,21
+ba6a0374-a651-4c16-8f1d-07a5c8a82e46;PWPX0982761091247;Charmin Toilet Paper;Supermarket;$4.29;4,29
+115e3777-b175-4bcf-a115-c7fbd9048a12;PWPX0982761091248;Bounty Paper Towels;Supermarket;$7.49;7,49
+0087eb40-38e6-42d5-b5f7-de62f1957fda;PWPX0982761091249;Scott Paper Towels;Supermarket;$6.07;6,07
+b9e09d14-6b3a-4082-90ab-bcbafbcdba9c;PWPX0982761091250;Glad Trash Bags;Supermarket;$12.80;12,8
+14f0e4f9-6f61-4702-9d84-a664764a8386;PWPX0982761091251;Hefty Trash Bags;Supermarket;$8.97;8,97
+b35b9d14-7d47-4f66-997c-5259d2211054;PWPX0982761091252;Ziploc Bags;Supermarket;$8.66;8,66
+e3c29d77-aa66-42ec-88cf-58ed3dda846b;PWPX0982761091253;Reynolds Aluminum Foil;Supermarket;$8.15;8,15
+2ac1db48-e4a1-47e4-9c01-2bb0a0fe5f50;PWPX0982761091254;Saran Wrap;Supermarket;$2.31;2,31
+85b8ddbf-09ce-42ca-83f8-4a1b2c7487cb;PWPX0982761091255;Dixie Paper Plates;Supermarket;$10.81;10,81
+9b74d6a7-8fca-4294-a956-e4811e308609;PWPX0982761091256;Solo Cups;Supermarket;$5.82;5,82
+d49fc462-5c9b-4813-8d04-f717ef86a64e;PWPX0982761091257;Chinet Plates;Supermarket;$9.94;9,94
+55ed3c09-686b-4574-a7e1-1ea534ddfefe;PWPX0982761091258;Brawny Paper Towels;Supermarket;$5.18;5,18
+966a171b-7b69-4b4e-a72f-dbfab299cbda;PWPX0982761091259;Clorox Bleach;Supermarket;$14.52;14,52
+ae6ccb66-1303-41c5-92bd-38f36d3c4434;PWPX0982761091260;Lysol Disinfecting Wipes;Supermarket;$15.21;15,21
+0ce40e90-9ef0-4a2c-8ed1-06445b3f5c33;PWPX0982761091261;Mr. Clean Magic Eraser;Supermarket;$19.47;19,47
+90eb4a5d-f200-4145-91ba-f6ec6b493f99;PWPX0982761091262;Swiffer WetJet;Supermarket;$15.01;15,01
+9f464114-9c9f-45ff-b565-0bcf4778e1a7;PWPX0982761091263;Febreze Air Freshener;Supermarket;$11.07;11,07
+5282e1cc-6fa4-4c4b-8d4c-a9681f7921f9;PWPX0982761091264;Windex;Supermarket;$2.48;2,48
+9cac1427-e14e-4a9a-8143-601c60c3664d;PWPX0982761091265;Pledge Furniture Polish;Supermarket;$2.62;2,62
+7a3fa4d8-d664-49f6-8d75-567f95b9c3af;PWPX0982761091266;Dawn Dish Soap;Supermarket;$2.08;2,08
+83d07a6f-c9f7-4f54-a706-fce8420aea47;PWPX0982761091267;Palmolive Dish Soap;Supermarket;$12.27;12,27
+e97bb68c-3ce9-4f5f-b556-0fc2b7c868ee;PWPX0982761091268;Cascade Dishwasher Pods;Supermarket;$12.31;12,31
+eacd5a59-9fe2-48fd-bd74-034aec76a53d;PWPX0982761091269;Finish Dishwasher Pods;Supermarket;$13.21;13,21
+ffbbc10a-ea04-441c-8c68-6d481d432205;PWPX0982761091270;Tide Laundry Detergent;Supermarket;$9.72;9,72
+8b9dbb38-b9c2-42e7-b5d6-08f953123437;PWPX0982761091271;Gain Laundry Detergent;Supermarket;$5.34;5,34
+e4de6ba3-245e-4ade-ab5a-ca53daa14a23;PWPX0982761091272;Arm & Hammer Baking Soda;Supermarket;$8.96;8,96
+a9b17658-9453-4324-9c09-b5c916d8a570;PWPX0982761091273;OxiClean Stain Remover;Supermarket;$18.82;18,82
+78f607e0-4893-4628-88ec-61ba1a5ef148;PWPX0982761091274;Downy Fabric Softener;Supermarket;$19.24;19,24
+1f2ec622-5b54-4f57-8cb4-6e19a35ce2da;PWPX0982761091275;Bounce Dryer Sheets;Supermarket;$19.65;19,65
+d60f38c7-942c-46f9-af05-9787e26087c1;PWPX0982761091276;Scotch-Brite Sponges;Supermarket;$7.60;7,6
+91bccb9c-84b0-4efe-8920-7e65b49f0d5b;PWPX0982761091277;Brillo Pads;Supermarket;$3.92;3,92
+c6cff401-9d66-409b-aaaf-3bd86363a9ee;PWPX0982761091278;Bic Lighters;Supermarket;$3.82;3,82
+3f97ecb2-a33a-4467-b0cb-c921b8b16438;PWPX0982761091279;Duracell Batteries;Supermarket;$11.84;11,84
+83d088e0-b7e6-4302-a63f-c4421293421a;PWPX0982761091280;Energizer Batteries;Supermarket;$2.21;2,21
+9e8d0c0a-dab9-4581-a7b7-acfd50787812;PWPX0982761091281;Rayovac Batteries;Supermarket;$10.74;10,74
+18c742a0-3cab-4396-8ff4-c4eb5f940c3e;PWPX0982761091282;Eveready Batteries;Supermarket;$11.49;11,49
+3523b03b-be39-4c7f-a6c2-bf1c939b8946;PWPX0982761091283;Charmin Flushable Wipes;Supermarket;$4.02;4,02
+dd8ccf93-c59e-4ec4-8aea-5cf31062211d;PWPX0982761091284;Cottonelle Flushable Wipes;Supermarket;$3.41;3,41
+9b69fb04-d3e5-418b-841f-165c7ea8c849;PWPX0982761091285;Poise Pads;Supermarket;$5.41;5,41
+bde4b6f2-b855-4b3f-99ab-e7cfb1ee5730;PWPX0982761091286;Always Pads;Supermarket;$13.71;13,71
+072fc5d1-b985-42d0-b833-4fa89eeaad15;PWPX0982761091287;Tampax Tampons;Supermarket;$5.12;5,12
+36a11834-9e50-47bb-a464-2aec21e818eb;PWPX0982761091288;Playtex Tampons;Supermarket;$10.14;10,14
+50c8e413-01ca-4a16-add9-38951e260e60;PWPX0982761091289;Oral-B Toothbrush;Supermarket;$15.14;15,14
+1408ea6f-e88b-4e2f-ab1b-05626c8cb3b6;PWPX0982761091290;Colgate Toothpaste;Supermarket;$3.48;3,48
+399ba95a-d741-4117-ac17-7277b4a63092;PWPX0982761091291;Crest Toothpaste;Supermarket;$8.72;8,72
+d1a87506-4215-4c31-b11f-9c0ad5ff83e7;PWPX0982761091292;Sensodyne Toothpaste;Supermarket;$13.63;13,63
+cdde6278-3d82-426d-ad9e-c3506e4a0ea8;PWPX0982761091293;Listerine Mouthwash;Supermarket;$12.74;12,74
+10c3b81a-9ebb-4e1b-91db-0bed48e8e005;PWPX0982761091294;Scope Mouthwash;Supermarket;$5.94;5,94
+255dedee-a562-4d11-8d3e-034948ff88fc;PWPX0982761091295;Halls Cough Drops;Supermarket;$7.67;7,67
