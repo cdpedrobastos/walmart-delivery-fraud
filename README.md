@@ -4,6 +4,7 @@ Projeto de análise de dados de entregas do Walmart para detecção de fraudes e
 A análise dos dados de entregas do Walmart na região da Central Florida teve como objetivo identificar possíveis padrões de fraude em pedidos reportados como incompletos. Durante o projeto, realizei a limpeza e integração das bases, construí visualizações no Looker Studio e apliquei técnicas estatísticas para detecção de anomalias. Apesar de não ter encontrado indícios claros de fraude, a análise confirmou a importância do monitoramento contínuo e da aplicação de boas práticas de ciência de dados para validar a estabilidade dos processos. O projeto resultou em um dashboard interativo que pode ser utilizado para acompanhamento e detecção de desvios futuros.
 
 * Tecnologias e Ferramentas
+
 SQL – Data World
 
 Excel – Pivot Tables
